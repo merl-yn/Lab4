@@ -1,0 +1,70 @@
+﻿{
+  "version": "1.0.0",
+  "restore": {
+    "projectUniqueName": "C:\\Users\\Valeriy\\Desktop\\OOP labs\\Valeriy_Kovetskiy\\Lab_4\\Lab_4.Host\\Lab_4.Host.csproj",
+    "projectName": "Lab_4.Host",
+    "projectPath": "C:\\Users\\Valeriy\\Desktop\\OOP labs\\Valeriy_Kovetskiy\\Lab_4\\Lab_4.Host\\Lab_4.Host.csproj",
+    "outputPath": "C:\\Users\\Valeriy\\Desktop\\OOP labs\\Valeriy_Kovetskiy\\Lab_4\\Lab_4.Host\\obj\\",
+    "projectStyle": "PackageReference",
+    "fallbackFolders": [
+      "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+    ],
+    "originalTargetFrameworks": [
+      "net50"
+    ],
+    "sources": {
+      "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+      "https://api.nuget.org/v3/index.json": {}
+    },
+    "frameworks": {
+      "netcoreapp5.0": {
+        "projectReferences": {
+          "C:\\Users\\Valeriy\\Desktop\\OOP labs\\Valeriy_Kovetskiy\\Lab_4\\Lab_4.DataAccess\\Lab_4.DataAccess.csproj": {
+            "projectPath": "C:\\Users\\Valeriy\\Desktop\\OOP labs\\Valeriy_Kovetskiy\\Lab_4\\Lab_4.DataAccess\\Lab_4.DataAccess.csproj"
+          },
+          "C:\\Users\\Valeriy\\Desktop\\OOP labs\\Valeriy_Kovetskiy\\Lab_4\\Lab_4.Domain\\Lab_4.Domain.csproj": {
+            "projectPath": "C:\\Users\\Valeriy\\Desktop\\OOP labs\\Valeriy_Kovetskiy\\Lab_4\\Lab_4.Domain\\Lab_4.Domain.csproj"
+          }
+        }
+      }
+    },
+    "warningProperties": {
+      "warnAsError": [
+        "NU1605"
+      ]
+    }
+  },
+  "frameworks": {
+    "netcoreapp5.0": {
+      "dependencies": {
+        "MediatR.Extensions.Microsoft.DependencyInjection": {
+          "target": "Package",
+          "version": "[9.0.0, )"
+        },
+        "Swashbuckle.AspNetCore": {
+          "target": "Package",
+          "version": "[5.6.3, )"
+        }
+      },
+      "imports": [
+        "net461",
+        "net462",
+        "net47",
+        "net471",
+        "net472",
+        "net48"
+      ],
+      "assetTargetFallback": true,
+      "warn": true,
+      "frameworkReferences": {
+        "Microsoft.AspNetCore.App": {
+          "privateAssets": "none"
+        },
+        "Microsoft.NETCore.App": {
+          "privateAssets": "all"
+        }
+      },
+      "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
+    }
+  }
+}

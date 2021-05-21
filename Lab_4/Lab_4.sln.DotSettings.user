@@ -1,0 +1,10 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=60dd13be_002D01c7_002D48c8_002D94ec_002Db9060c80b4c1/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="WhenSomeTextIsPosted_ThenTheResultIsOk" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::4E73FA2B-CC1F-4052-9F2D-5A2C01054097::.NETCoreApp,Version=v5.0::Lab_4.Tests.StudentsControllerTests.Should_Return4Students_OnGetAllRequest&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::4E73FA2B-CC1F-4052-9F2D-5A2C01054097::.NETCoreApp,Version=v5.0::Lab_4.Tests.StudentsControllerTests.Should_ReturnVasyaStudent_OnFirstPassportId&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::4E73FA2B-CC1F-4052-9F2D-5A2C01054097::.NETCoreApp,Version=v5.0::Lab_4.Tests.StudentsControllerTests.Should_Return25Percentage_OnNonResidentsPercentageEndpoint&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::4E73FA2B-CC1F-4052-9F2D-5A2C01054097::.NETCoreApp,Version=v5.0::Lab_4.Tests.StudentsControllerTests.Should_Return50Percentage_OnNonResidentsPercentageEndpoint&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::4E73FA2B-CC1F-4052-9F2D-5A2C01054097::.NETCoreApp,Version=v5.0::Lab_4.Tests.StudentsControllerTests.Should_Return2Students_OnGetStudentsForHostelEndpoint&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
